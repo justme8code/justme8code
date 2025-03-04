@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oretan Thompson Bolaji (justme8code)
+# 👋 Hi, I'm Thompson
 🔭 Software Developer solving problems and learning new things<br>👯 Currently Studying Computer Science at Adeleke University<br> I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
